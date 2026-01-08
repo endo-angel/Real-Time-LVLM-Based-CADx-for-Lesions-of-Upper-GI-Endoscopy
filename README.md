@@ -50,6 +50,7 @@ llamafactory-cli webui
 ## Pretrained model
 
 🤗[Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct)
+[EndoCADx](DOI: https://doi.org/10.5061/dryad.tqjq2bwct)
 
 ## Acknowledgement
 
@@ -58,7 +59,7 @@ This repo benefits from [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) and [LLaM
 ## About the author
 
 * Author
-  * Renmin Hospital of Wuhan University & Wuhan EndoAngel Medical Technology Co., Ltd.
+  *  Wuhan University & Renmin Hospital of Wuhan University & Wuhan EndoAngel Medical Technology Co., Ltd.
 * E-mail
   * <shan.hu@ai-endoangel.com>
   * <jiangyuhan@whu.edu.cn>
