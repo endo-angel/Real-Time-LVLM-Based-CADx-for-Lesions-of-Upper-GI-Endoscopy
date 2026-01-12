@@ -41,11 +41,7 @@ llamafactory-cli webui
 
 ### Evaluate
 
-Using evaluate.ipynb
-
-```bash
-llamafactory-cli webui 
-```
+See evaluate.ipynb
 
 ## Pretrained model
 
