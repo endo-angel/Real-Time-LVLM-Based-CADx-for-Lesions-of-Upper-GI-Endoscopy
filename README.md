@@ -43,6 +43,8 @@ llamafactory-cli webui
 
 See evaluate.ipynb
 
+If you want to predict the original image test set, see evaluate_original_dataset.ipynb
+
 ## Pretrained model
 
 🤗[Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct)
