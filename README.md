@@ -58,8 +58,4 @@ This repo benefits from [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) and [LLaM
 
 * Author
   *  Wuhan University & Renmin Hospital of Wuhan University & Wuhan EndoAngel Medical Technology Co., Ltd.
-* E-mail
-  * <shan.hu@ai-endoangel.com>
-  * <jiangyuhan@whu.edu.cn>
-  * <tinshun.xiong@ai-endoangel.com>
-  * <wu_leanne@whu.edu.cn>
+
